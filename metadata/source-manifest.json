@@ -1,0 +1,23 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/MBP_MBI.lsp",
+      "bytes": 45832,
+      "sha256": "6f9845641d81ebcc3a98452179f3afd9c7e23139f4631afd1ed42ee9fd96e1e1",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "MBP",
+          "line": 17
+        },
+        {
+          "name": "MBI",
+          "line": 936
+        }
+      ]
+    }
+  ]
+}

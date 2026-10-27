@@ -1,0 +1,12 @@
+[
+  {
+    "file": "lsp/MBP_MBI.lsp",
+    "commands": [
+      "MBP",
+      "MBI"
+    ],
+    "title": "多點與交點切割",
+    "category": "幾何處理",
+    "manual": "README.md"
+  }
+]
